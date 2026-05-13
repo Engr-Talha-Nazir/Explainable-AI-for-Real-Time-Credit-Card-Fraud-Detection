@@ -135,7 +135,7 @@
         <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
     </section>
     <footer>
-        <p>Repository: <a href="https://github.com/your-username/FraudDetectionProject">https://github.com/your-username/FraudDetectionProject</a></p>
+        <p>Repository: <a href="https://github.com/Engr-Talha-Nazir/Explainable-AI-for-Real-Time-Credit-Card-Fraud-Detection">https://github.com/your-username/FraudDetectionProject</a></p>
     </footer>
 </body>
 </html>
